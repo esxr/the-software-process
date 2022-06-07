@@ -15,19 +15,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "f448fe7b190bd158",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "From Pull Request to Prodcution.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"

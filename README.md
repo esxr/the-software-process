@@ -1,3 +1,8 @@
+# CSSE 3012 Notes
+Quickly search for information in open-book tests
+
+![](usage.png)
+
 ### Usage
 - Fork the repo and clone it
 - Download **Obsidian.md**
