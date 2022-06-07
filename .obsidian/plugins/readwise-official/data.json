@@ -1,0 +1,39 @@
+{
+  "token": "TUeE25sRcnKuS244MvZ2CaIa3LPKlBxU3cV1nSwRLc8tqnUbry",
+  "readwiseDir": "Readwise",
+  "frequency": "60",
+  "triggerOnLoad": true,
+  "isSyncing": false,
+  "lastSyncFailed": true,
+  "lastSavedStatusID": 3164234,
+  "currentSyncStatusID": 0,
+  "refreshBooks": false,
+  "booksToRefresh": [
+    "13476071",
+    "13475679",
+    "13475678",
+    "13476177"
+  ],
+  "booksIDsMap": {
+    "Readwise/Articles/Who Will Steal Android From Google.md": "13475678",
+    "Readwise/Articles/Warren Buffett’s ‘20 Slot’ Rule How to Simplify Your Life and Maximize Your Results.md": "13475679",
+    "Readwise/Articles/How to Design Your Own Personal Knowledge Management System.md": "13476071",
+    "Readwise/Articles/Niklas Luhmann - Wikipedia.md": "13476177",
+    "Readwise/Articles/Decentralized Finance On Blockchain- And Smart Contract-Based Financial Markets.md": "13581093",
+    "Readwise/Articles/How to Climb “Dr. Peterson’s Competence Hierarchies”, Based on Your Individual Needs.md": "13581092",
+    "Readwise/Articles/Jordan Peterson -  How to Rise to the Top of the Dominance Hierarchy.md": "13581090",
+    "Readwise/Articles/(PDF) the Tokenization of Assets Using Blockchains for Equity Crowdfunding.md": "13600265",
+    "Readwise/Books/Quick Passages.md": "13602989",
+    "Readwise/Articles/Code Reads #6 Mitch Kapor’s Software Design Manifesto — Wordyard.md": "13788571",
+    "Readwise/Articles/(PDF) Using the OPEN Process Framework to Produce a Situation-Specific Requirements Engineering Method.md": "13808261",
+    "Readwise/Articles/RNotion - Can We Combine Notion and Obsidian.md": "13932527",
+    "Readwise/Tweets/Tweets From Ankur Warikoo.md": "13932608",
+    "Readwise/Articles/Manage-Time-Tips.pdf.md": "14042517",
+    "Readwise/Articles/Manage-Time-Tips.pdf-2.md": "14042516",
+    "Readwise/Articles/Self-Driving Car - Wikipedia.md": "14042515",
+    "Readwise/Articles/Multicoin Capital The DeFi Stack.md": "14110734",
+    "Readwise/Articles/The Strengths and Weaknesses of DeFi Price Oracles   HackerNoon.md": "14110732",
+    "Readwise/Articles/What Are Higher-Order Notes - LYT Kit.md": "14160815"
+  },
+  "reimportShowConfirmation": true
+}

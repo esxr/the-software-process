@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "97a9ed9df3dd9ce7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c686e5860121391",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CSSE3012 - The Software Process.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f448fe7b190bd158",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "From Pull Request to Prodcution.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d56493b81551d3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a4fb6b8976331a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43cd330bf7dade7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5bc8b2bf8547df38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8a5582535d45ee27",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fc66ec504b0fcf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19a7c8f72b2e8a32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CSSE3012 - The Software Process.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "841aaa096729b36d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CSSE3012 - The Software Process.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5245437cbba8c5fe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b3412fffb0f1431d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2f06d989b63c921",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2a19ea2fd9567140",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f4aef19d30ce6148",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "d673f0dc963f2633",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efddf0d645801758",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295,
+    "collapsed": true
+  },
+  "active": "1c686e5860121391",
+  "lastOpenFiles": [
+    "CSSE3012 - The Software Process.md",
+    "From Pull Request to Prodcution.md",
+    "Building Blocks Of Blockchain.md",
+    "Block Chain (Data Structure).md",
+    "Blockchain.md",
+    "Business Model Canvas.md",
+    "Reviews and Inspection.md",
+    "Personas.md",
+    "Software Quality.md",
+    "customer journey maps.md"
+  ]
+}

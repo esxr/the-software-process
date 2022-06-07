@@ -1,0 +1,22 @@
+{
+  "collapse-filter": false,
+  "search": "tag:#csse3012",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.363247863247863,
+  "repelStrength": 14.1025641025641,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 1.5959230279301526,
+  "close": false
+}
