@@ -1,5 +1,5 @@
 # CSSE 3012 Notes
-Quickly search for information in open-book tests
+Quickly search for information in the subject. Better understanding and knowledge retention.
 
 ![](usage.png)
 
