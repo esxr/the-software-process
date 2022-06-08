@@ -17,12 +17,38 @@
         }
       },
       {
-        "id": "ed7deb4bce41e0cb",
+        "id": "00221ba5ed57e094",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Engineering Process.md",
+            "file": "Requirements Engineering.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f42231b04297bd0a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Non-Functional Requirements.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "7bcbb58da140201d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Functional Requirements.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -83,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering Process.md",
+                "file": "Non-Functional Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering Process.md",
+                "file": "Non-Functional Requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,17 +197,17 @@
     "width": 295,
     "collapsed": true
   },
-  "active": "ed7deb4bce41e0cb",
+  "active": "f42231b04297bd0a",
   "lastOpenFiles": [
-    "Software Engineering Process.md",
-    "formal process models.md",
-    "agile process models.md",
-    "prototypical process models.md",
-    "incremental process models.md",
-    "structured process models.md",
-    "images/Software Engineering Process 2022-06-09 03.49.46.excalidraw.md",
+    "Non-Functional Requirements.md",
+    "Requirements Engineering.md",
+    "Functional Requirements.md",
+    "Benefits of good requirements.md",
+    "What happens if requirements are wrong.md",
+    "Why is RE important.md",
+    "Difference between average, poor, and best software (RE).md",
+    "Docs/Week 02a1 - Requirements Engineering.pdf",
     "CSSE3012 - The Software Process.md",
-    "Software Engineering Process 2022-06-09 03.25.15.excalidraw.md",
-    "From Pull Request to Prodcution.md"
+    "Software Engineering Process.md"
   ]
 }

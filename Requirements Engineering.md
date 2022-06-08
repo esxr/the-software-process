@@ -16,7 +16,11 @@ ___
 
 ___
 
-## Why is RE important
+## [[Why is RE important]]
+[[Difference between average, poor, and best software (RE)]]
+[[What happens if requirements are wrong]]
+[[Benefits of good requirements]]
+
 Most faults observed in a software project are from incorrect, incomplete, or misinterpreted functional specifications or requirements. - **Glass’ Law**
 
 Sound basis for **resource estimation**

@@ -66,5 +66,15 @@
       ],
       "key": "E"
     }
-  ]
+  ],
+  "open-with-default-app:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "editor:toggle-checklist-status": []
 }

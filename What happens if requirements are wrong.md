@@ -1,0 +1,5 @@
+- Delivered late
+- Over budget
+- Customers are not satisfied
+- System unreliable
+- Maintainance very costly

@@ -20,12 +20,12 @@ ___
 ### Types of process models
 #incomplete
 - [[structured process models]]
-	- Stagewise
-	- Waterfall
-	- Spiral
+	- [[Stagewise]]
+	- [[Waterfall]]
+	- [[Spiral]]
 - [[incremental process models]]
-	- Unified Process
-	- OPEN
+	- [[Unified Process]]
+	- [[OPEN]]
 - [[prototypical process models]] (Not formally documented)
 - [[agile process models]]
 - [[formal process models]] (Not formally documented)

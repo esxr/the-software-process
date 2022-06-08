@@ -6,7 +6,12 @@ Non-Functional Requirements (NFR) **should be measurable**
 
 Quality and Performance 
 - Product Properties
+	- Requirements on the behaviour of the **product**
+		- System shall process a minimum of 8 transactions per second
+		- User credit card details shall be secured
 - Process Properties
+	- Requirements on the **process itself** followed to develop the system
+		- Control software shall be verified in accordance with IEEE STD 1012-2016
 
 ---
 NFRs according to ISO standard

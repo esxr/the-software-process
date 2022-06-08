@@ -13,7 +13,7 @@
   "shell_commands": {
     "0": {
       "platform_specific_commands": {
-        "default": "git add . && git commit -m \"vault updated at: $(date +'%m/%d/%Y %r')\" && git push --force"
+        "default": "git add . && git commit -m \"update\" && git push --force"
       },
       "shells": {},
       "alias": "upload",
