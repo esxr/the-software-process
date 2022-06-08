@@ -16,3 +16,10 @@ ___
 - `Ctrl + P` to open the command palette
 
 ___
+### Useful Tips
+
+- Search for **docs/...** to quickly access all material of all weeks
+
+![[Pasted image 20220609043551.png]]
+
+___

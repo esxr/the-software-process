@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSSE3012 - The Software Process.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSSE3012 - The Software Process.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSSE3012 - The Software Process.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,6 +173,7 @@
   },
   "active": "1c686e5860121391",
   "lastOpenFiles": [
+    "README.md",
     "CSSE3012 - The Software Process.md",
     "Requirements Modelling.md",
     "Docs/Week 03a - Requirements Modelling.pdf",
@@ -181,7 +182,6 @@
     "Business Model Canvas.md",
     "Business Model Canvas Examples.md",
     "Docs/Week 02b - Business Model Canvas.pdf",
-    "Excalidraw/Requirements Elicitation.excalidraw.md",
-    "Requirements Engineering.md"
+    "Excalidraw/Requirements Elicitation.excalidraw.md"
   ]
 }
