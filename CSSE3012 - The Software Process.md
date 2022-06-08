@@ -9,7 +9,9 @@ ___
 revise 
 </span> [[Requirements Elicitation.excalidraw]]
 	- [[Business Model Canvas]]
-	- [[Project initiation (Tutorial)]]
+	- [[Project initiation (Tutorial)]] <span style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
+likely irrelevant 
+</span>
 	- [[Requirements Modelling]]
 	- [[User Stories]]
 	- [[Prioritisation and Estimation]]
