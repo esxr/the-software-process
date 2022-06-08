@@ -1,0 +1,1 @@
+prototypical model describes those processes that are based on an exploratory approach to analysis and design and which assume uncertain requirements

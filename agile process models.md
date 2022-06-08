@@ -1,0 +1,1 @@
+Agile models focus on delivering value to the customer using a rapid learning and delivery model

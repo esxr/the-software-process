@@ -1,0 +1,1 @@
+The formal model is used to describe processes based on formal mathematical techniques

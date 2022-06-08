@@ -15,6 +15,19 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "ed7deb4bce41e0cb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Software Engineering Process.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -70,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSSE3012 - The Software Process.md",
+                "file": "Software Engineering Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSSE3012 - The Software Process.md",
+                "file": "Software Engineering Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,17 +171,17 @@
     "width": 295,
     "collapsed": true
   },
-  "active": "1c686e5860121391",
+  "active": "ed7deb4bce41e0cb",
   "lastOpenFiles": [
+    "Software Engineering Process.md",
+    "formal process models.md",
+    "agile process models.md",
+    "prototypical process models.md",
+    "incremental process models.md",
+    "structured process models.md",
+    "images/Software Engineering Process 2022-06-09 03.49.46.excalidraw.md",
     "CSSE3012 - The Software Process.md",
-    "From Pull Request to Prodcution.md",
-    "Building Blocks Of Blockchain.md",
-    "Block Chain (Data Structure).md",
-    "Blockchain.md",
-    "Business Model Canvas.md",
-    "Reviews and Inspection.md",
-    "Personas.md",
-    "Software Quality.md",
-    "customer journey maps.md"
+    "Software Engineering Process 2022-06-09 03.25.15.excalidraw.md",
+    "From Pull Request to Prodcution.md"
   ]
 }
