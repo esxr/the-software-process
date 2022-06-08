@@ -5,5 +5,9 @@ ___
 [[Week 02a2 - Requirements Elicitation(1).pdf]]
 [[Week 02b - Business Model Canvas.pdf]]
 
-[[Project initiation (Tutorial)]]
+___
+### Why Business Model Canvas?
+
+
+
 ___

@@ -17,12 +17,12 @@
         }
       },
       {
-        "id": "00221ba5ed57e094",
+        "id": "390fff8661ca6af9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Requirements Engineering.md",
+            "file": "Business Model Canvas.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -30,28 +30,12 @@
         }
       },
       {
-        "id": "f42231b04297bd0a",
+        "id": "ee1ea53eb9401984",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Non-Functional Requirements.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "7bcbb58da140201d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Functional Requirements.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+            "file": "Docs/Week 02b - Business Model Canvas.pdf"
           }
         }
       }
@@ -109,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-Functional Requirements.md",
+                "file": "Business Model Canvas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non-Functional Requirements.md",
+                "file": "Business Model Canvas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,17 +181,17 @@
     "width": 295,
     "collapsed": true
   },
-  "active": "f42231b04297bd0a",
+  "active": "390fff8661ca6af9",
   "lastOpenFiles": [
-    "Non-Functional Requirements.md",
-    "Requirements Engineering.md",
-    "Functional Requirements.md",
-    "Benefits of good requirements.md",
-    "What happens if requirements are wrong.md",
-    "Why is RE important.md",
-    "Difference between average, poor, and best software (RE).md",
-    "Docs/Week 02a1 - Requirements Engineering.pdf",
+    "Business Model Canvas.md",
+    "Docs/Week 02b - Business Model Canvas.pdf",
     "CSSE3012 - The Software Process.md",
-    "Software Engineering Process.md"
+    "Excalidraw/Requirements Elicitation.excalidraw.md",
+    "Requirements Engineering.md",
+    "Who does requirements engineering.md",
+    "Sources Of Requirements.md",
+    "Non-Functional Requirements.md",
+    "Functional Requirements.md",
+    "Benefits of good requirements.md"
   ]
 }

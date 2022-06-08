@@ -3,6 +3,10 @@
 ___
 
 Non-Functional Requirements (NFR) **should be measurable**
+- *System should have 99% uptime*
+- *System should load under 30 seconds*
+- etc...
+___
 
 Quality and Performance 
 - Product Properties
