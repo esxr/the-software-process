@@ -1,7 +1,7 @@
 # CSSE 3012 Notes
 Quickly search for information in the subject. Better understanding and knowledge retention.
 
-![](usage.png)
+![](images/usage.png)
 
 ### Usage
 - Fork the repo and clone it
