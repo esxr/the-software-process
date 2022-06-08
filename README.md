@@ -17,9 +17,16 @@ ___
 
 ___
 ### Useful Tips
-
 - Search for **docs/...** to quickly access all material of all weeks
 
 ![[Pasted image 20220609043551.png]]
 
+- Access the **Graph View** to get an idea of the weightage of a topic (*More connections likely correlate to higher weightage*)
+
+![[Pasted image 20220609044313.png]]
+
+
+- Open the local graph using `Ctrl + P` -> `Open Local Graph` to get a visual idea of the subtopics of a topic
+
+![[Pasted image 20220609044535.png]]
 ___
