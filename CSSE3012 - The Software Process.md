@@ -1,7 +1,10 @@
 #csse3012
 # CSSE 3012 - The Software Process
 [[CSSE3012 Final Exam]]
+
 [[Full Case Study]]
+![[Full Case Study 2022-06-10 05.50.11.excalidraw|400]]
+
 ___
 ### Index
 - [[Software Engineering Process]]

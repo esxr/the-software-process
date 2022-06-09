@@ -15,32 +15,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "8fd37b2fcb9d3649",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "common similarities between process models.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "ebff7c15cdbb67b6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "common differences between process models.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -188,6 +162,7 @@
   "active": "41a3acfca8b219ee",
   "lastOpenFiles": [
     "CSSE3012 - The Software Process.md",
+    "Full Case Study.md",
     "Release vs Sprint.md",
     "why are lean, agile, and incremental better.md",
     "common similarities between process models.md",
@@ -195,7 +170,6 @@
     "Estimation (Agile).md",
     "Three-Point Estimation.md",
     "Planning Poker Estimation.md",
-    "Software Process Improvement.md",
-    "Docs/Week 12a - Reviews and Inspections.pdf"
+    "Software Process Improvement.md"
   ]
 }
