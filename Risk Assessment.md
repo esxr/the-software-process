@@ -18,7 +18,24 @@ SEI Software Risk Management Model
 	- from a [[list of potential risks]]
 	- document them using a [[risk management form]]
 - Analyze
-
+	- rate all the risks
+	- combine risks
+- Prioritize risks
+	- Map all risks onto the [[risk matrix]]
+- Identify **risk aversion methods**
+	- take no action
+	- reduce risk level
+	- develop a contingency strategy
+- Identify **risk mitigation methods** [reference](https://www.indeed.com/career-advice/career-development/risk-mitigation-strategies)
+	- design reviews, 
+	- development progress, etc..
+- identify **risk recovery methods**
+	- redesign system to correct deficiency
+	- reallocate requirements to maintain overall performance
+	- define reduced performance thresholds
+- define [[risk metrics]]
+- implement **mitigation/reduction actions**
+- track risks
 ___
 [[Week 11 - Risk Assessment.pdf]]
 
