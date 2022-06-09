@@ -7,7 +7,7 @@ ___
 - [[Requirements Engineering]]
 	- <span style="background-color: yellow; padding-left: 5px; padding-right: 5px; border: 1px solid black;">
 revise 
-</span> [[Requirements Elicitation.excalidraw]]
+</span> [[Requirements Elicitation]]
 	- [[Business Model Canvas]]
 	- [[Project initiation (Tutorial)]] <span style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
 likely irrelevant 

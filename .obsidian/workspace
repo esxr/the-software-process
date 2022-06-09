@@ -9,7 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "CSSE3012 - The Software Process.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "855167f91877771a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "User Stories.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "User Stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "User Stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,17 +171,17 @@
     "width": 295,
     "collapsed": true
   },
-  "active": "d1d4f2c12e696888",
+  "active": "855167f91877771a",
   "lastOpenFiles": [
-    "README.md",
+    "User Stories.md",
     "CSSE3012 - The Software Process.md",
-    "Software Engineering Process.md",
-    "images/usage.png",
-    "Excalidraw/CryptoHashFunctionHiding.excalidraw.md",
-    "Excalidraw/CryptoHashFunction.excalidraw.md",
+    "Requirements Elicitation.md",
     "Excalidraw/Requirements Elicitation.excalidraw.md",
-    "Excalidraw/Drawing 2022-03-29 12.00.33.excalidraw.md",
-    "Day Planners/Day Planner-20220609.md",
-    "Day Planners/Day Planner-20220607.md"
+    "Business Model Canvas.md",
+    "Stakeholders.md",
+    "Docs/User Stories Examples - Mike Cohn.pdf",
+    "Docs/User Story Structure Explanation.pdf",
+    "Docs/Week 03b - User Stories(2).pdf",
+    "Requirements Modelling.md"
   ]
 }

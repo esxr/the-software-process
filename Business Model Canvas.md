@@ -21,7 +21,7 @@ ___
 
 ___
 ### Why Business Model Canvas?
-- It is important to **understand the Business Value** that the client delivers 
+- It is important to **understand the Business Value** that the [[Stakeholders|client]] delivers 
 	- to **understand the requirements**
 
 - **Business Model** - Describes the rationale of how an organisation creates, delivers, and captures value
