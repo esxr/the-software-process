@@ -6,12 +6,13 @@ ___
 ### Index
 - [[Software Engineering Process]]
 	- [[process models]] - e.g. [[agile process models]]
+		- [[common differences between process models]]
+		- [[common similarities between process models]]
+		- [[why are lean, agile, and incremental better]]
 	- [[Software Process Improvement]]
 	- [[Standards, Ethics and Project]]
 - [[Requirements Engineering]]
-	- <span style="background-color: yellow; padding-left: 5px; padding-right: 5px; border: 1px solid black;">
-revise 
-</span> [[Requirements Elicitation]]
+	- [[Requirements Elicitation]]
 	- [[Business Model Canvas]]
 		- <span style="background-color: #cfc ; padding-left: 5px; padding-right: 5px; border: 1px solid green;">
 example 
@@ -30,6 +31,7 @@ example
 cover different estimation methods 
 </span>
 	- [[Release and Sprint Planning]]
+		- [[Release vs Sprint]]
 		- <span style="background-color: #cfc ; padding-left: 5px; padding-right: 5px; border: 1px solid green;">
 example 
 </span> [[Release and Sprint Plan - Example.pdf]]

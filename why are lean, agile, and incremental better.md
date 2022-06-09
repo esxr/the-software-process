@@ -1,0 +1,3 @@
+### Why are lean, agile and incremental better
+-  Agile, Lean and incremental processes are about iterative cycles of development and hence, fault rectification is possible in subsequent iterations. More feedback is involved as compared to traditional processes, and priorities can be changed quickly.   
+-   Tasks can be co-current, teams can be multi-disciplined and there is a lot of flexibility in the process models as compared to the rigid, uni-directional flow of a traditional process model. This helps teams reprioritise, provide better values and products, and thus a significantly better outcome.
