@@ -30,6 +30,8 @@ see my leave balance
 plan my holidays 
 </span>
 
+![[Pasted image 20220609173024.png]]
+
 ___
 ### Process of completing a Story
 [Card -> Conversation -> Confirmation](https://medium.com/@mojamcpds/card-conversation-confirmation-d88c074dd58c)
