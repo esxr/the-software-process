@@ -14,13 +14,20 @@ ___
 
 ___
 ### Methods
-- Estimation by Analogy
-- Planning Poker Estimation
-- Wide-Band Delphi Estimation
-- Story Points Estimation
-- Technology Grid Estimation
-- Affinity Estimation
-- T-Shirt Size Estimation
+[Estimation techniques overview](https://www.netsolutions.com/insights/how-to-estimate-projects-in-agile/)
+
+
+- [[Estimation by Analogy]]
+- [[Planning Poker Estimation]]
+- <span style="background-color: yellow; padding-left: 5px; padding-right: 5px; border: 1px solid black;">
+rare 
+</span> [[Wide-Band Delphi Estimation]]
+- [[Story Points Estimation]]
+	- [[Fibonacci Sequence for Story Point Estimation]]
+	- [[Using a Technology Grid]]
+- [[Three-Point Estimation]]
+- [[Affinity Mapping Estimation]]
+- [[T-Shirt Size Estimation]]
 
 ___
 ### Guidelines
