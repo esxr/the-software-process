@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story.md",
+                "file": "User Stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story.md",
+                "file": "User Stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,17 +184,17 @@
     "width": 295,
     "collapsed": true
   },
-  "active": "4c39025397a1bfa9",
+  "active": "855167f91877771a",
   "lastOpenFiles": [
-    "Story.md",
     "User Stories.md",
+    "Epic.md",
+    "Trawling for Stories.md",
+    "Story Brainstorming.md",
+    "Story Review.md",
+    "Story.md",
     "INVEST.md",
     "CSSE3012 - The Software Process.md",
     "Requirements Elicitation.md",
-    "Excalidraw/Requirements Elicitation.excalidraw.md",
-    "Business Model Canvas.md",
-    "Stakeholders.md",
-    "Docs/User Stories Examples - Mike Cohn.pdf",
-    "Docs/User Story Structure Explanation.pdf"
+    "Excalidraw/Requirements Elicitation.excalidraw.md"
   ]
 }

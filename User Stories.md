@@ -9,9 +9,17 @@ ___
 	- Perspective - Stakeholder
 	- Testable
 	- Just enough detail
-- Finding Stories
+- Process of writing a story
 	- [[Story#Process of completing a Story|Card, Conversation, Confirmation]]
+- Finding Stories
+	- [[Trawling for Stories]]
+		- [[Trawling for Stories#General Tips|General Tips]]
+		- [[Story Brainstorming|Brainstorming]]
+		- [[Story Review|Review]]
+	- Similar to [[Requirements Elicitation]]
 - Writing Good Stories
+	- [[Epic|Epics]] - General Stories for the future
+		- Split into stories
 	- [[INVEST]]
 
 ___
