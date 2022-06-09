@@ -1,6 +1,6 @@
 #csse3012 
 # Estimation Techniques
-[[Prioritisation and Estimation]]
+[[Prioritisation (Agile)]]
 [[Prioritisation and Estimation (Tutorial)]]
 
 ___

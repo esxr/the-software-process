@@ -14,7 +14,8 @@ likely irrelevant
 </span>
 	- [[Requirements Modelling]]
 	- [[User Stories]]
-	- [[Prioritisation and Estimation]]
+	- [[Prioritisation (Agile)]]
+	- [[Estimation (Agile)]]
 	- [[Release and Sprint Planning]]
 	- [[Use Case Modelling]]
 	- [[Activity Diagrams]]
@@ -30,6 +31,6 @@ likely irrelevant
 	- [[Software Quality]]
 	- [[Risk Assessment]]
 	- [[Estimation Techniques]]
-	- [[From Pull Request to Prodcution]]
+	- [[From Pull Request to Production]]
 ___
 
