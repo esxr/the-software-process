@@ -1,30 +1,34 @@
 #csse3012 
 # Use Case Modelling
+[[Use Case Modelling Examples]]
 ![[Pasted image 20220610021040.png]]
 
 ___
 ### Quick Overview
-[[Use Case Modelling Examples|examples]]
 - [product vs user centric](https://www.packagingdevelopments.com/blog/user-centred-design-vs-product-centred-design/)
 	- user centric modeling is preferred
 - basis for acceptance testing
 
 ___
 ### Process
-- Identify actors
+- **Identify actors**
 	- e.g. Borrower - primary, Librarian - secondary 
-- Identify initial use cases -> [[Requirements Engineering]]
+- **Identify initial use cases** -> [[Requirements Engineering]]
 	- source of usecases: <span style="background-color: #cfc ; padding-left: 5px; padding-right: 5px; border: 1px solid green;">
 Requirements Engineering 
 </span>
 	- e.g. Borrow Book, Return Book, Lost Book
-- Produce use case diagram
+- **Produce use case diagram**
 	- Identify packages
 	- ![[Pasted image 20220610022608.png|300]]
 - Develop initial use cases
-- Refine use cases
+- **Refine use cases**
 	- UI/UX prototyping
-	- Restructure use cases
+	- <span style="background-color: #cfc ; padding-left: 5px; padding-right: 5px; border: 1px solid green;">
+restructure 
+</span> use cases
+		- alternatives
+		- `<<include>>` and `<<extend>>`
 
 ___
 ### Basic Rules
@@ -51,6 +55,9 @@ ___
 
 `<<extend>>` relationship
 ![[Pasted image 20220610022936.png|400]]
+
+Generalization
+![[Pasted image 20220610023118.png|400]]
 
 ___
 [[Week 06a - Use Case Modelling.pdf]]
