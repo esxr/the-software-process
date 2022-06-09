@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a740e64da0ebae03",
+        "id": "0e0787b799d5f37f",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -13,29 +13,6 @@
             "mode": "source",
             "backlinks": true,
             "source": false
-          }
-        }
-      },
-      {
-        "id": "0b78f9b0856f09d9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Advance Estimation Techniques.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "5eb83b02be4e27f5",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Docs/Week 12b - Estimation - Further Techniques.pdf"
           }
         }
       }
@@ -77,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8a5582535d45ee27",
@@ -181,17 +159,17 @@
     "width": 295,
     "collapsed": true
   },
-  "active": "a740e64da0ebae03",
+  "active": "0e0787b799d5f37f",
   "lastOpenFiles": [
     "CSSE3012 - The Software Process.md",
+    "images/Full Case Study 2022-06-10 05.50.11.excalidraw.md",
+    "Business Model Canvas.md",
+    "INVEST.md",
+    "images/Pasted Image 20220610055040_347.png",
+    "Full Case Study.md",
     "Advance Estimation Techniques.md",
     "Docs/Week 12b - Estimation - Further Techniques.pdf",
     "Risk Assessment.md",
-    "risk metrics.md",
-    "risk matrix.md",
-    "risk management form.md",
-    "list of potential risks.md",
-    "Docs/Week 11 - Risk Management Guide.pdf",
-    "Docs/Week 11 - Risk Assessment.pdf"
+    "risk metrics.md"
   ]
 }

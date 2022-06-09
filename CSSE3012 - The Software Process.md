@@ -1,6 +1,7 @@
 #csse3012
 # CSSE 3012 - The Software Process
 [[CSSE3012 Final Exam]]
+[[Full Case Study]]
 ___
 ### Index
 - [[Software Engineering Process]]
