@@ -17,18 +17,9 @@ class
 object 
 </span> then is a concrete implementation of a model that provides strong guidelines of how the process is meant to be followed
 ___
-### Types of process models
-#incomplete
-- [[structured process models]]
-	- [[Stagewise]]
-	- [[Waterfall]]
-	- [[Spiral]]
-- [[incremental process models]]
-	- [[Unified Process]]
-	- [[OPEN]]
-- [[prototypical process models]] (Not formally documented)
-- [[agile process models]]
-- [[formal process models]] (Not formally documented)
+[[process models]]
+___
+
 ___
 [[Week 05 - Amazon Dev Process.pdf]]
 

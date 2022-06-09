@@ -32,9 +32,13 @@ Sound basis for **resource estimation**
 ___
 
 ## What is a requirement
+1.  A condition or capability needed by a user to solve a problem or achieve an objective
+2.  A condition or capability that must be met or possessed by a system or system component to satisfy a contract, standard, specification or other formally imposed document
+3. A documented representation of a condition or capability as in 1 or 2
+
 ![[Requirements Engineering_2022-03-23 15.26.54.excalidraw]]
 
-### What documents are included in the requirement
+### What documents are included in the requirement (RS)
 **Primary** - Agreement between client and developer
 **Secondary** - System or software acceptance test criteria
 ___

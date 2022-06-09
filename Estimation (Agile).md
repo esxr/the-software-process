@@ -51,7 +51,12 @@ ___
 - Unique aspects of projects
 
 ___
-[[Story Points Estimation]]
+### QnA
+
+**Explain how developer productivity affects software estimates. What can an organisation do to take into account developer productivity when estimating time to complete development work?** 
+
+The developer's productivity affects the software estimates as this impacts how quickly they are able to complete a task. The organization can account for this by using the team's velocity instead of individual developers and also use past projects as a reference to determine the velocity of the team as well as the time needed for development.
+
 ___
 
 [[Week 04b - Estimation(1).pdf]]
