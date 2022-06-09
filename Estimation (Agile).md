@@ -18,11 +18,15 @@ ___
 
 
 - [[Estimation by Analogy]]
-- [[Planning Poker Estimation]]
+- <span style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
+Important 
+</span> [[Planning Poker Estimation]]
 - <span style="background-color: yellow; padding-left: 5px; padding-right: 5px; border: 1px solid black;">
 rare 
 </span> [[Wide-Band Delphi Estimation]]
-- [[Story Points Estimation]]
+- <span style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
+Important 
+</span> [[Story Points Estimation]]
 	- [[Fibonacci Sequence for Story Point Estimation]]
 	- [[Using a Technology Grid]]
 - [[Three-Point Estimation]]

@@ -15,7 +15,9 @@ likely irrelevant
 	- [[Requirements Modelling]]
 	- [[User Stories]]
 	- [[Prioritisation (Agile)]]
-	- [[Estimation (Agile)]]
+	- [[Estimation (Agile)]] <span style="background-color: yellow; padding-left: 5px; padding-right: 5px; border: 1px solid black;">
+cover different estimation methods 
+</span>
 	- [[Release and Sprint Planning]]
 	- [[Use Case Modelling]]
 	- [[Activity Diagrams]]
