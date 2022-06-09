@@ -3,7 +3,10 @@
 ___
 [[CSSE3012 Final Exam]]
 
-[[Full Case Study]]
+[[Full Case Study]] <span style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
+covers 80% of the subject 
+</span>
+
 ![[Full Case Study 2022-06-10 05.50.11.excalidraw|400]]
 
 ___
