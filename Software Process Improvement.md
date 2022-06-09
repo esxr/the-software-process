@@ -1,3 +1,8 @@
+#csse3012 #softwaredevelopment 
+# Software Process Improvement
+___
+
+### Maturity Levels (CMMI)
 **Capability Maturity Model Integration** is a process level improvement training and appraisal program. Administered by the CMMI Institute, a subsidiary of ISACA, it was developed at Carnegie Mellon University. 
 
 <span style="background-color: #cfc ; padding-left: 5px; padding-right: 5px; border: 1px solid green;">
@@ -6,19 +11,39 @@ It is required by many U.S. Government contracts
 
 ___
 ### Overview
-- initial
-- managed
-	- basic process mgmt
-	- repeatable process
-- defined
-	- managed+
-	- different templates for handling different processes
-- quantitatively measured
-	- defined+
-	- processes + way of measuring processes
-- optimizing
-	- measured+
-	- special focus on improvement
+- **Starting**
+	• Ad-hoc and occasionally chaotic
+	• Few processes are defined and success depends on individual effort (rather than teamwork)
+	• During crisis, projects typically abandon planned procedures and revert to coding and testing.
+
+- **Repeatable**
+	• Basic project management process (Track cost, schedule and functionality)
+	• Process discipline is in place to repeat earlier success on similar projects
+	• Project standards are defined (management ensures they are followed)
+	• Commitments are understood and managed.
+
+- **Defined**
+	• Process for both management and engineering activities is documented and standardised
+	• Projects tailor the standard process (develop their own process to account for unique characteristics
+	of the project)
+	• Organisational process improvement effort (Software engineering process group (SEPG)
+
+- **Managed**
+	• Relationships between cost, schedule and quality are understood in numerical terms
+	• Performance is predictable
+	• Quantitative product quality and process productivity goals are set for each project.
+	• Product quality and process productivity are continuously measured and corrective action taken
+	when required
+	• Organisation-wide software process database is used to collect and analyse data about software
+	processes.
+
+- **Optimising**
+	• Continuous process improvement
+		- Quantitative feedback from process
+		- Piloting innovative ideas and technologies
+	• Software teams analyse defects to determine their causes
+		- Evaluate software processes to prevent known types of defects from recurring
+		- Disseminate lessons throughout organisation.
 
 ___
 ### Detail
