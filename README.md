@@ -7,7 +7,9 @@ Quickly search for information in the subject. Better understanding and knowledg
 - Fork the repo and clone it
 - Download **Obsidian.md**
 - Open **Obsidian**. Select **open folder as vault** and open this repo
-- !! **Turn Off Safe Mode** so that community plugins can be used
+- <span style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
+ <b>!! Turn Off Safe Mode</b>
+</span> so that community plugins can be used
 
 ___
 
