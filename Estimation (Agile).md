@@ -62,8 +62,6 @@ ___
 [[Week 04b - Estimation(1).pdf]]
 
 ___
-[Planning Poker Estimation](https://www.mountaingoatsoftware.com/agile/planning-poker)
-[Three Point Estimation](https://cleancoders.com/blog/2021-02-16-clean-coders-planning-poker)
 [Why Fibonacci Sequence](https://www.mountaingoatsoftware.com/blog/why-the-fibonacci-sequence-works-well-for-estimating)
 
 ___

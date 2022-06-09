@@ -24,7 +24,7 @@ likely irrelevant
 		- [[Use Case Modelling]]
 		- <span style="background-color: #cfc ; padding-left: 5px; padding-right: 5px; border: 1px solid green;">
 example 
-</span> [[Requirements Modelling Example]]
+</span> [[Story Cards Example - Solar Calc.pdf]]
 	- [[Prioritisation (Agile)]]
 	- [[Estimation (Agile)]] <span style="background-color: yellow; padding-left: 5px; padding-right: 5px; border: 1px solid black;">
 cover different estimation methods 
