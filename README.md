@@ -8,12 +8,13 @@ Quickly search for information in the subject. Better understanding and knowledg
 - Download **Obsidian.md**
 - Open **Obsidian**. Select **open folder as vault** and open this repo
 - **!! Turn Off Safe Mode** so that community plugins can be used
-
+- Search **CSSE 3012 - The Software Process** to open the main page.
 ___
 
 ### Useful commands
 - `Ctrl + O` to search files by filename
 - `Ctrl + P` to open the command palette
+- `Ctrl + Click` to open a link in new tab
 
 ___
 ### Useful Tips

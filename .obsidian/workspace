@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Story.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User Stories.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "User Stories.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,17 +184,17 @@
     "width": 295,
     "collapsed": true
   },
-  "active": "855167f91877771a",
+  "active": "4c39025397a1bfa9",
   "lastOpenFiles": [
+    "README.md",
+    "Story.md",
     "User Stories.md",
     "Epic.md",
     "Trawling for Stories.md",
     "Story Brainstorming.md",
     "Story Review.md",
-    "Story.md",
     "INVEST.md",
     "CSSE3012 - The Software Process.md",
-    "Requirements Elicitation.md",
-    "Excalidraw/Requirements Elicitation.excalidraw.md"
+    "Requirements Elicitation.md"
   ]
 }
