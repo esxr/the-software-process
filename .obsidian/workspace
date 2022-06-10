@@ -17,12 +17,25 @@
         }
       },
       {
-        "id": "d976a9f98845b08e",
+        "id": "18d8c7b9e645d86c",
         "type": "leaf",
         "state": {
           "type": "pdf",
           "state": {
             "file": "Docs/Week 11 - CodeCoverage.pdf"
+          }
+        }
+      },
+      {
+        "id": "5af721ecc53daca1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Scrum.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
         }
       },
@@ -182,8 +195,8 @@
   "active": "8f8b47d4f310ee11",
   "lastOpenFiles": [
     "Paper.md",
-    "Docs/Week 11 - CodeCoverage.pdf",
     "Scrum.md",
+    "Docs/Week 11 - CodeCoverage.pdf",
     "paper 2.md",
     "Software Process Improvement (CMMI Levels).md",
     "Non-Functional Requirements.md",

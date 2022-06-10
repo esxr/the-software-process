@@ -1,8 +1,11 @@
 # CSSE 3012 Exam
 ___
 ### 1(b)
-Fagan inspections take a long time and, if performed on a large scale, might stall project development. As a result, if excessive programming is done on a big scale, it might cause considerable delays, making Fagan inspections inefficient. In a big-scale business, it is frequently impossible to analyze a vast quantity of code. Furthermore, because the code is continually assessed using Extreme Programming, Fagan inspections, which include a thorough analysis of the code, are no longer necessary and can be a waste of resources.
+Fagan inspections take a long time and, if performed on a large scale, might stall project development. 
 
+extreme programming is an agile practice that relies on quality team members who are dedicated to the success of the project. This practice also ensures that code is continually assessed throughout the process. Fagan inspections, try to do the same (analysis of the code), which makes them redundant.
+
+Even so, fagan inspections prove to be inefficient on a large scale because organizations tend to fall back to their average and it may cause delays. 
 ___
 ### 1 (c)
 ![[Pasted image 20220610160620.png]]
@@ -29,11 +32,11 @@ ___
 • Projects tailor the standard process (develop their own process to account for unique characteristics of the project)
 
 Why not managed?
-large scale scrum is a viable solution for large teams but not the industry standard for the same. It is at best an upgrade to the already existing scrum practices used for small teams. It doesn't have the following properties of the Managed CMMI level:
-• Performance is predictable.
+Large scale scrum is a viable solution for large teams but not the industry standard for the same. It is at best an upgrade to the already existing scrum practices used for small teams. It doesn't have the following properties of the Managed CMMI level:
+- Performance is predictable.
 	- some processes involved in large scale scrum are unnecessarily complicated and can be done better in other methodologies
 - Relationships between cost, schedule and quality are understood in numerical terms
-	- Large Scale scrum doesn't 
+	- Large Scale scrum relies a lot on the team ability to do task analysis and estimation skill rather than proper quantifiable methods
 
 It doesn't have the following qualities required for the **managed** cmmi level
 • Relationships between cost, schedule and quality are understood in numerical terms
@@ -42,13 +45,15 @@ It doesn't have the following qualities required for the **managed** cmmi level
 ___
 ### 2(a)
 
-
+**Problem**
 • Even small programs have too many inputs to fully test them 
 	• int diff (int A, int B) 
 	• each variable has over 4 billion possible values (32-bit machine) 
-	
+
+**Solution**
 • To tackle the above problem testers search a huge input space use fewest inputs to find the most problems 
-	
+
+**Benefits**
 • Coverage criteria give structured, practical ways to search the input space 
 	• search the input space thoroughly 
 	• reduce overlap in the tests 
@@ -125,6 +130,7 @@ ___
 ![[Pasted image 20220610171048.png]]
 
 
+**ASSUMPTION**: The question wanted to imply "fall detection application" instead of "personal academic record application"
 
 ___
 ### 3(h)
@@ -137,10 +143,7 @@ ___
 	- The system shall not disclose any personal information about customers apart from their **name**, **identification number** and **accelerometer sensor data** to the operators of the system.
 
 
-ASSUMPTION: The question wanted to imply "fall detection application" instead of "personal academic record application"
-
-
-
+**ASSUMPTION**: The question wanted to imply "fall detection application" instead of "personal academic record application"
 
 
 ___
