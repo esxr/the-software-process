@@ -1,6 +1,6 @@
 #csse3012 #softwaredevelopment 
 # Trawling for Stories
-Used in finding [[Story]]
+Used in finding [[User Story]]
 [[User Stories]]
 ___
 - Story writing workshops

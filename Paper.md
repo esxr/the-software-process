@@ -101,8 +101,12 @@ Hence, **Choice 1** is the obvious choice because it has a higher Risk Reduction
 Choice 1 also has `RRL >= 1` which means that the **cost of intervention** is a worthy investment in the mitigation of risk and it is advisable to go with it.
 
 ___
+### 3(b)
+
+
+___
 ### 3(c)
-![[Pasted image 20220610170944.png]]
+
 **Lean**
 
 *"The application will collect accelerometer sensor data from smartwatch in a set interval/sampling period. A sequence/stream of accelerometer sensor data will be used to predict fall or not fall as an output."*
@@ -144,6 +148,12 @@ ___
 ___
 ### 3(e)
 
+As **user** I want to be able to **report a fall** so that I can **get help**
+As a <span style="background-color: #cfc ; padding-left: 5px; padding-right: 5px; border: 1px solid green;">
+care provider 
+</span> I want to be able to <span style="background-color: yellow; padding-left: 5px; padding-right: 5px; border: 1px solid black;">
+be notified 
+</span> so that I can **help the user**
 
 
 **ASSUMPTION**: The question wanted to imply "fall detection application" instead of "personal academic record application"

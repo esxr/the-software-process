@@ -4,13 +4,13 @@
 Primary focus - [[Stakeholders]]
 ___
 ### Quick Recap
-- Characteristics of a [[Story]]
+- Characteristics of a [[User Story]]
 	- Short
 	- Perspective - Stakeholder
 	- Testable
 	- Just enough detail
 - Process of writing a story
-	- [[Story#Process of completing a Story|Card, Conversation, Confirmation]]
+	- [[User Story#Process of completing a Story|Card, Conversation, Confirmation]]
 - Finding Stories
 	- [[Trawling for Stories]]
 		- [[Trawling for Stories#General Tips|General Tips]]
