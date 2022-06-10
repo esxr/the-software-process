@@ -136,7 +136,7 @@ ___
 ### 3(d)
 - The intent of the idea is clear
 	- The idea **isn't too exploratory**. The only changes will be done in the techniques used to implement the idea.
-		- for e.g. The challenge is not to decide **WHAT** the solution is going to be. It is to decide **HOW** to implement that solution in the best possible manner.
+		- e.g. The challenge is not to decide **WHAT** the solution is going to be. It is to decide **HOW** to implement that solution in the best possible manner.
 	- We need broad data for finding out the best techniques and improving the technology
 		- Lots of user feedback is needed
 		- We need to find out things which the user **can't always describe**
@@ -149,11 +149,7 @@ ___
 ### 3(e)
 
 As **user** I want to be able to **report a fall** so that I can **get help**
-As a <span style="background-color: #cfc ; padding-left: 5px; padding-right: 5px; border: 1px solid green;">
-care provider 
-</span> I want to be able to <span style="background-color: yellow; padding-left: 5px; padding-right: 5px; border: 1px solid black;">
-be notified 
-</span> so that I can **help the user**
+As a **care provider** I want to be able to **be notified when a user falls** so that I can help the user
 
 
 **ASSUMPTION**: The question wanted to imply "fall detection application" instead of "personal academic record application"
@@ -169,8 +165,8 @@ ___
 ___
 ### 3(h)
 
-- *Product > Dependability*
-	- 
+- *Product > Reliability*
+	- System should be reliable. It should have a **less than 2%** false positive and false negative rate when reporting a fall.
 
 - *External > Legislative > Privacy*
 	- The system shall not disclose any personal information about customers apart from their **name**, **identification number** and **accelerometer sensor data** to the operators of the system.
