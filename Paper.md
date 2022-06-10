@@ -1,19 +1,24 @@
 # CSSE 3012 Exam
 ___
+### 1(b)
+Fagan inspections take a long time and, if performed on a large scale, might stall project development. As a result, if excessive programming is done on a big scale, it might cause considerable delays, making Fagan inspections inefficient. In a big-scale business, it is frequently impossible to analyze a vast quantity of code. Furthermore, because the code is continually assessed using Extreme Programming, Fagan inspections, which include a thorough analysis of the code, are no longer necessary and can be a waste of resources.
+
+___
 ### 1 (c)
 ![[Pasted image 20220610160620.png]]
-- Developers & Stakeholders need a shared understanding of the project’s purpose
-	- easier when they collaborate continuously 
-- Focus on value to be delivered – not just the requirements 
-- Enables better decisions, designs and suggestions 
-	- developers are part of the value chain 
-- not just serving it
-- Business Model - describes the rationale of how an organisation creates, delivers, and captures value
-- Primary sources of requirements
+
+For a software to accurately achieve its requirements, developers need to not only understand the software component, but the wholistic business aspect of the software as well.
+
+Business Model describes the rationale of how an organisation creates delivers, and captures value. If the business model is not clearly defined in the beginning, then consequent corrections in the business model can render a lot of usecases, prototypes and calculations made in the software process useless.
+
+Having a business model enables better decisions, designs and suggestions because developers are a part of the process generating actual business value.
+
+Also, Primary sources of requirements are
 	- Stakeholders
 	- Users
 	- Environment
-- Business model canvas aims at finding out the primary sources of requirements that will be taken into account while calculating the requirements of the software
+
+Business model canvas aims at finding out the primary sources of requirements that will be taken into account while calculating the requirements of the software.
 
 
 ___
@@ -24,12 +29,31 @@ ___
 • Projects tailor the standard process (develop their own process to account for unique characteristics of the project)
 
 Why not managed?
-large scale scrum is a viable solution for large teams but not the industry standard for the same. It is at best an upgrade to the already existing scrum practices used for small teams
+large scale scrum is a viable solution for large teams but not the industry standard for the same. It is at best an upgrade to the already existing scrum practices used for small teams. It doesn't have the following properties of the Managed CMMI level:
+• Performance is predictable.
+	- some processes involved in large scale scrum are unnecessarily complicated and can be done better in other methodologies
+- Relationships between cost, schedule and quality are understood in numerical terms
+	- Large Scale scrum doesn't 
 
 It doesn't have the following qualities required for the **managed** cmmi level
 • Relationships between cost, schedule and quality are understood in numerical terms
 • Performance is predictable
 
+___
+### 2(a)
+
+
+• Even small programs have too many inputs to fully test them 
+	• int diff (int A, int B) 
+	• each variable has over 4 billion possible values (32-bit machine) 
+	
+• To tackle the above problem testers search a huge input space use fewest inputs to find the most problems 
+	
+• Coverage criteria give structured, practical ways to search the input space 
+	• search the input space thoroughly 
+	• reduce overlap in the tests 
+	• Coverage criteria gives testers a **stopping rule** … when testing is finished 
+	• Coverage criteria can be well supported with powerful tools
 
 ___
 ### 3(a)
@@ -96,13 +120,26 @@ ___
 **Observations** seem to be an appropriate requirement elicitation technique
 
 
-
 ___
 ### 3(e)
+![[Pasted image 20220610171048.png]]
+
 
 
 ___
 ### 3(h)
+![[Pasted image 20220610171104.png]]
+
+- *Product > Dependability*
+	- 
+
+- *External > Legislative > Privacy*
+	- The system shall not disclose any personal information about customers apart from their **name**, **identification number** and **accelerometer sensor data** to the operators of the system.
+
+
+ASSUMPTION: The question wanted to imply "fall detection application" instead of "personal academic record application"
+
+
 
 
 

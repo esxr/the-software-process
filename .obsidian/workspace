@@ -17,12 +17,12 @@
         }
       },
       {
-        "id": "ff34cfaa5e9f6621",
+        "id": "d976a9f98845b08e",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "pdf",
           "state": {
-            "file": "Excalidraw/Requirements Elicitation.excalidraw.md"
+            "file": "Docs/Week 11 - CodeCoverage.pdf"
           }
         }
       },
@@ -182,14 +182,14 @@
   "active": "8f8b47d4f310ee11",
   "lastOpenFiles": [
     "Paper.md",
+    "Docs/Week 11 - CodeCoverage.pdf",
+    "Scrum.md",
+    "paper 2.md",
+    "Software Process Improvement (CMMI Levels).md",
+    "Non-Functional Requirements.md",
+    "images/Writing Academic Papers_2022-03-30 19.10.26.excalidraw.md",
+    "Docs/Week 09b - Non-Functional Requirements.pdf",
     "Excalidraw/Requirements Elicitation.excalidraw.md",
-    "images/Full Case Study 2022-06-10 05.50.11.excalidraw.md",
-    "Risk Management.md",
-    "common differences between process models.md",
-    "Difference between average, poor, and best software (RE).md",
-    "Risk Assessment.md",
-    "Risk Assessment Example.md",
-    "Software Process Improvement.md",
-    "Business Model Canvas.md"
+    "images/Full Case Study 2022-06-10 05.50.11.excalidraw.md"
   ]
 }
