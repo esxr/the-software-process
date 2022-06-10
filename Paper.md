@@ -7,8 +7,7 @@ extreme programming is an agile practice that relies on quality team members who
 
 Even so, fagan inspections prove to be inefficient on a large scale because organizations tend to fall back to their average and it may cause delays. 
 ___
-### 1 (c)
-![[Pasted image 20220610160620.png]]
+### 1(c)
 
 For a software to accurately achieve its requirements, developers need to not only understand the software component, but the wholistic business aspect of the software as well.
 
@@ -26,7 +25,7 @@ Business model canvas aims at finding out the primary sources of requirements th
 
 ___
 ### 1(e)
-![[Pasted image 20220610170923.png]]
+
 **Defined**
 • Process for both management and engineering activities is documented and standardised
 • Projects tailor the standard process (develop their own process to account for unique characteristics of the project)
@@ -59,6 +58,22 @@ ___
 	• reduce overlap in the tests 
 	• Coverage criteria gives testers a **stopping rule** … when testing is finished 
 	• Coverage criteria can be well supported with powerful tools
+
+___
+### 2(b)
+![[Paper 2022-06-10 18.10.05.excalidraw]]
+
+
+
+___
+### 2(c)
+`x=2`
+
+**branch coverage**
+
+
+**statement coverage**
+
 
 ___
 ### 3(a)
@@ -113,7 +128,6 @@ This software requires more flexibility and needs to include elements of uncerta
 
 ___
 ### 3(d)
-![[Pasted image 20220610170958.png]]
 - The intent of the idea is clear
 	- The idea **isn't too exploratory**. The only changes will be done in the techniques used to implement the idea.
 		- for e.g. The challenge is not to decide **WHAT** the solution is going to be. It is to decide **HOW** to implement that solution in the best possible manner.
@@ -127,14 +141,13 @@ ___
 
 ___
 ### 3(e)
-![[Pasted image 20220610171048.png]]
+
 
 
 **ASSUMPTION**: The question wanted to imply "fall detection application" instead of "personal academic record application"
 
 ___
 ### 3(h)
-![[Pasted image 20220610171104.png]]
 
 - *Product > Dependability*
 	- 
