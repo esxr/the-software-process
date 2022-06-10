@@ -3,9 +3,10 @@ ___
 ### 1(b)
 Fagan inspections take a long time and, if performed on a large scale, might stall project development. 
 
-extreme programming is an agile practice that relies on quality team members who are dedicated to the success of the project. This practice also ensures that code is continually assessed throughout the process. Fagan inspections, try to do the same (analysis of the code), which makes them redundant.
+extreme programming is an agile practice that relies on quality team members who are dedicated to the success of the project. This practice also ensures that code is continually assessed throughout the process. Fagan inspections try to do the same (analysis of the code), which makes them redundant.
 
 Even so, fagan inspections prove to be inefficient on a large scale because organizations tend to fall back to their average and it may cause delays. 
+
 ___
 ### 1(c)
 
@@ -70,14 +71,17 @@ ___
 `x=2`
 
 **branch coverage**
-
+`b1, b4, b6, b5 b2`
+total - 6, covered - 5, 83.33% coverage
 
 **statement coverage**
+`s1, s2, s3, s4, s5, s6, s7, s9, s8, s10`
+total - 10, covered - 9, 90% coverage
 
 
 ___
 ### 3(a)
-![[Pasted image 20220610170935.png]]
+
 ```
 RE = Probability Of occurance * cost to project
 Risk Reduction Leverage = (RE(before) - RE(efter))/cost of intervention
@@ -124,8 +128,6 @@ This narrows down the methodologies to:
 
 This software requires more flexibility and needs to include elements of uncertainty, hence **Lean** is the most appropriate methodology for developing this software
 
-
-
 ___
 ### 3(d)
 - The intent of the idea is clear
@@ -145,6 +147,14 @@ ___
 
 
 **ASSUMPTION**: The question wanted to imply "fall detection application" instead of "personal academic record application"
+
+___
+### 3(f)
+![[Pasted image 20220610184120.png]]
+
+___
+### 3(g)
+![[Pasted image 20220610184133.png]]
 
 ___
 ### 3(h)
