@@ -1,5 +1,26 @@
 # CSSE 3012 Exam
+Pranav Dhoolia
+46333694
+
 ___
+### 1(a)
+- IT Department - **Incremental model**
+	- primary focus on long term projects
+	- project goals and requirements are clear and labelled
+	- Less risks and don't need delivery immediately
+
+- Consulting companies - **Agile model**
+	- Fixed and matured processes 
+	- Easy to estimate costs
+	- Project requirements are clear but still require some testing
+
+- Research and Development - **Prototypical Model**
+	- Experimental processes
+	- Harder to estimate costs (unique requirements)
+	- Focus more on testing the viability of a product rather than developing it
+
+___
+
 ### 1(b)
 Fagan inspections take a long time and, if performed on a large scale, might stall project development. 
 
@@ -22,6 +43,9 @@ Also, Primary sources of requirements are
 	- Environment
 
 Business model canvas aims at finding out the primary sources of requirements that will be taken into account while calculating the requirements of the software.
+
+___
+### 1(d)
 
 
 ___
@@ -103,6 +127,17 @@ Choice 1 also has `RRL >= 1` which means that the **cost of intervention** is a 
 ___
 ### 3(b)
 
+![[Paper 2022-06-10 19.03.04.excalidraw]]
+
+**Reduction Strategy**
+System assumes the responsibility of notifying the authorities instead of the care provider
+
+**Additional Risks**
+- Extra overhead costs for connecting to the Emergency services API
+- Reputational damage if the emergency api doesn't work
+
+![[Paper 2022-06-10 19.11.34.excalidraw]]
+
 
 ___
 ### 3(c)
@@ -147,6 +182,7 @@ ___
 
 ___
 ### 3(e)
+![[Pasted image 20220610185948.png]]
 
 As **user** I want to be able to **report a fall** so that I can **get help**
 As a **care provider** I want to be able to **be notified when a user falls** so that I can help the user
