@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Paper.md",
+            "file": "CSSE3012 - The Software Process.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper.md",
+                "file": "CSSE3012 - The Software Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper.md",
+                "file": "CSSE3012 - The Software Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,6 +161,7 @@
   },
   "active": "82d8eb63596816fa",
   "lastOpenFiles": [
+    "CSSE3012 - The Software Process.md",
     "Paper.md",
     "images/Paper 2022-06-10 18.10.05.excalidraw.md",
     "images/Paper 2022-06-10 19.03.04.excalidraw.md",
@@ -169,7 +170,6 @@
     "images/Pasted image 20220610051710.png",
     "risk matrix.md",
     "Risk Sources.md",
-    "Risk Assessment Example.md",
-    "risk metrics.md"
+    "Risk Assessment Example.md"
   ]
 }
