@@ -1,5 +1,5 @@
-# CSSE 3012 Notes
-Quickly search for information in the subject. Better understanding and knowledge retention.
+# The Software Process
+Quickly search for information about The Software Process. Better understanding and knowledge retention.
 
 ![](images/usage.png)
 
