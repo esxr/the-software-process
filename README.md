@@ -1,7 +1,7 @@
 # The Software Process
 Quickly search for information about The Software Process. Better understanding and knowledge retention.
 
-![](images/usage.png)
+![images/usage.png](https://raw.githubusercontent.com/esxr/the-software-process/master/images/usage.png)
 
 ### Usage
 - Fork the repo and clone it
