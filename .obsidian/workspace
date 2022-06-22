@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "95da8672c22a69af",
+        "id": "7b4f42a2f66b7c7c",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -17,12 +17,38 @@
         }
       },
       {
-        "id": "d6d1d87024cad2db",
+        "id": "b56ea2d7badba504",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "CSSE3012 - The Software Process.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d3be562f197917fb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "process models.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3ad061a4b8f46573",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "process models.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -92,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSSE3012 - The Software Process.md",
+                "file": "process models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSSE3012 - The Software Process.md",
+                "file": "process models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,17 +206,17 @@
     "width": 295,
     "collapsed": true
   },
-  "active": "d6d1d87024cad2db",
+  "active": "3ad061a4b8f46573",
   "lastOpenFiles": [
+    "process models.md",
+    "structured process models.md",
+    "incremental process models.md",
+    "prototypical process models.md",
+    "agile process models.md",
+    "formal process models.md",
     "CSSE3012 - The Software Process.md",
-    "Software Processes Checklist.md",
-    "Risk Assessment.md",
-    "Risk Management.md",
-    "Validation and Verification.md",
-    "Excalidraw/Requirements Elicitation.excalidraw.md",
     "Requirements Elicitation.md",
-    "Requirements Engineering.md",
-    "Docs/Week 02 - Project Initiation.pdf",
-    "Project initiation (Tutorial).md"
+    "Excalidraw/Requirements Elicitation.excalidraw.md",
+    "Software Processes Checklist.md"
   ]
 }
